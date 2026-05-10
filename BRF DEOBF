@@ -67,7 +67,7 @@ function initializeMod() {
         ClientInput_constructor_int: 11420908,
         LogicGameObjectClient_getData: 10995228,
         LogicProjectileData_getSpeed: 10617980,
-        LogicProjectileData_getRadius: 10618108,
+        LogicProjectileData_getRadius: 10618108, //btw this is hex  prob idk
         LogicCharacterData_getCollisionRadius: 10340096,
         LogicGameObjectClient_getX: 10995948,
         LogicGameObjectClient_getY: 10995956,
